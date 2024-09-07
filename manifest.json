@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "掛け算学習ツール - わかりやすい筆算の掛け算学習",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
